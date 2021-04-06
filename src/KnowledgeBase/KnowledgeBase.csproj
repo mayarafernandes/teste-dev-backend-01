@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Owner.JogoGourmet.KnowledgeBase</AssemblyName>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <RootNamespace>Owner.JogoGourmet.KnowledgeBase</RootNamespace>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BinaryTree\BinaryTree.csproj" />
+  </ItemGroup>
+
+</Project>
